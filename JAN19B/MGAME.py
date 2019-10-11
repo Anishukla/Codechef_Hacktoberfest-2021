@@ -17,7 +17,7 @@ for i in range(T):
         print(P**3)
         
     else:
-        req=N%req
+        req = N%req
         b=(P-req)**2
         c=(P-N)*(P-req)
         a=(P-N)*(P-N)

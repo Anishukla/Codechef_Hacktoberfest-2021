@@ -15,7 +15,7 @@ for i in range(T):
 	N, a, b = map(int,input().split())
 	A =  list(map(int,input().split()))
 	for j in range(N):
-		val  = 0
+		val = 0
 		if(A[j]%a == 0):
 			p = p + 1
 		if(A[j]%b == 0):
