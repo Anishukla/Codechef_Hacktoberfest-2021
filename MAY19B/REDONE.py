@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May  8 12:06:22 2019
 @author: anishukla
 """
+
+""" Link to the problem: 
+    https://www.codechef.com/MAY19B/problems/REDONE
+    Link to my profile:
+    https://www.codechef.com/users/an1shukla """
 
 L = [1]
 for i in range(1, 1000000):

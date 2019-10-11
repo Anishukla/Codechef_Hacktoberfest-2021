@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 10 20:07:33 2019
 @author: anishukla
 """
+
+""" Link to the problem: 
+    https://www.codechef.com/MAY19B/problems/WTBTR
+    Link to my profile:
+    https://www.codechef.com/users/an1shukla """
 
 def mod(md):
     if(md<0):
