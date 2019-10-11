@@ -40,6 +40,5 @@ for i in range(T):
                 if(a and e and i and o and u):
                     cost = cost+1
                     print(L[j], L[k])
-                    break
-                
+                    break               
     print(cost)

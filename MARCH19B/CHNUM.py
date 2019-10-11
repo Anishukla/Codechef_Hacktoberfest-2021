@@ -14,6 +14,7 @@ for i in range(T):
     A =  list(map(int,input().split()))
     m = 0
     a = 0
+    
     for i in range(N):
         if(A[i] >= 0):
             m = m+1
