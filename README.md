@@ -1,12 +1,9 @@
-<!doctype html>
-
 <meta charset="utf-8">
 <meta name="Generator" content="Markdown preview & Parsedown">
-<title>Codechef</title>
 
 <h1>Codechef Division 2 Long Challenge Solutions!</h1>
 <p>This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started
-  with GitHub and the open-source world. In this repository, you can find the solutions (as source code) for the problems
+  with GitHub and the open-source world. In this repository, you can find the solutions (as source code) for the problems of Division 2
   asked on Codechef during Long Challenges. The goal of the repo is to have a collection of answers to all long challenge
   problems of all finished competitions held in 2019 i.e. from January 2019(JAN19B) to September 2019(SEPT19B) in as many
   different programming languages as possible.</p>
@@ -27,5 +24,5 @@ the format isn't followed.</li>
 <h5><a href="https://hacktoberfest.digitalocean.com/">Check your current hacktoberfest progress</a></h5>
 
 <h3>Learning resources</h3>
-<h5><A href="https://try.github.io">Learn Git basics.</a></h5>
-<h5><A href="https://learn.co/lessons/github-pull-request-basics">Creating a pull request.</a></h5>
+<h5><a href="https://try.github.io">Learn Git basics.</a></h5>
+<h5><a href="https://learn.co/lessons/github-pull-request-basics">Creating a pull request.</a></h5>
