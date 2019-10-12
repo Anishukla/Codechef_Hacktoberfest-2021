@@ -1,3 +1,11 @@
+ 
+/*
+Link to the problem:
+https://www.codechef.com/AUG19B/problems/DSTAPLS
+Link to my profile:
+https://www.codechef.com/users/rithika28
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
