@@ -5,7 +5,7 @@
 <p>This repository is mainly open to those who are looking to make some PR for the Hacktoberfest event, and to get started
   with GitHub and the open-source world. In this repository, you can find the solutions (as source code) for the problems of Division 2
   asked on Codechef during Long Challenges. The goal of the repo is to have a collection of answers to all long challenge
-  problems of all finished competitions held in 2019 i.e. from January 2019(JAN19B) to September 2019(SEPT19B) in as many
+  problems of all finished competitions held in 2019 i.e. from January 2019(JAN19B) to October 2019(OCT19B) in as many
   different programming languages as possible.</p>
 <h2>Rules and regulations</h4>
 <ol>
