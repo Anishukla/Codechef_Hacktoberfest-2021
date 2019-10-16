@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int T;
+    cin>>T;
+    while(T--)
+    {
+        int N,M,Q,evenrow=0,evencol=0,oddrow=0,oddcol=0;
+        cin>>N>>M>>Q;
+        N+=1;
+        M+=1;
+        int r,c,R[N],C[M];
+        for(int i=1;i<N;i++)
+            R[i]=0;
+        for(int i=1;i<M;i++)
+            C[i]=0;
+        for(int i=0;i<Q;i++)
+        {
+            cin>>r>>c;
+            R[r]++;
+            C[c]++;
+        }
+        for(int i=1;i<N;i++)
+        {
+            int k=R[i]%2;
+            if(k==0)
+                evenrow++;
+            if(k==1)
+                oddrow++;
+        }
+        for(int i=1;i<M;i++)
+        {
+            int k=C[i]%2;
+            if(k==0)
+                evencol++;
+            if(k==1)
+                oddcol++;
+        }
+        int count=(evenrow*oddcol)+(evencol*oddrow);
+        cout<<count<<endl;
+    }
+    return 0;
+}
