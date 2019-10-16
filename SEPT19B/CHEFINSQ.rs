@@ -1,3 +1,10 @@
+/*
+Link to the problem:
+https://www.codechef.com/SEPT19B/problems/CHEFINSQ
+Link to my profile:
+https://www.codechef.com/users/doraneko94
+*/
+
 fn read1<T: std::str::FromStr>() -> T {
     let mut s = String::new();
     std::io::stdin().read_line(&mut s).ok();
