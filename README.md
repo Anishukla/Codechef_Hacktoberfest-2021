@@ -15,10 +15,13 @@ So, if you have done it before it's okay else you need to get an AC in the PRACT
   <p>Also, if you're having any query on the proper format of adding link as a comment in your code. You can go through lines from 6 to 9 on the following
     <a href="https://github.com/Anishukla/Codechef/blob/master/JAN19B/DPAIRS.py">link.</p></a></h5>
 </li>
+
 <li>The naming format is the PROBLEM CODE exactly the same as on Codechef.(You can go through the already submitted solution's naming format). Your PR's won't be accepted if
-the format isn't followed.</li>
-<h4>Note:- Add your solution in the correct folder.</h4>
+the format isn't followed.<p></p></li>
+<li>Add your solution in the correct folder.<p></p></li>
+<li>Star the Repository. </li>
 </ol>
+
 <h2>Hacktoberfest-2k20 bash</h2>
 <p>Do you have a solution for a problem which isn't already present? Want to complete four PRs for Hacktoberbest-2k20. Send a PR of your solution in any programming language.</p>
 <h5><a href="https://hacktoberfest.digitalocean.com/">Check your current hacktoberfest progress</a></h5>
@@ -26,3 +29,11 @@ the format isn't followed.</li>
 <h3>Learning resources</h3>
 <h5><a href="https://try.github.io">Learn Git basics.</a></h5>
 <h5><a href="https://learn.co/lessons/github-pull-request-basics">Creating a pull request.</a></h5>
+
+### Contact
+
+> Let's Connect
+
+- [Github](https://github.com/Anishukla)
+- [Linkedin](https://www.linkedin.com/in/shuklanish)
+- [Twitter](https://twitter.com/ShuklAnish_)
