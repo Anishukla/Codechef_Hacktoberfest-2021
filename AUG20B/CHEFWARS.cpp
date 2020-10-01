@@ -1,3 +1,5 @@
+/*solution to
+https://www.codechef.com/AUG20B/problems/CHEFWARS*/
 
 #include <iostream>
 using namespace std;
