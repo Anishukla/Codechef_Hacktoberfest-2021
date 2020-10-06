@@ -1,3 +1,7 @@
+/*
+Link to the Problem : https://www.codechef.com/JULY20B/problems/PTMSSNG/
+My Solution : https://www.codechef.com/viewsolution/35251064
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long

@@ -1,4 +1,6 @@
 //author : akashksinghal
+//Problem Link : https://www.codechef.com/MAY20B/problems/CORUS
+//Link to Solution : https://www.codechef.com/viewsolution/38655465
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
