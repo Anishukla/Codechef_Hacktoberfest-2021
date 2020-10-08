@@ -1,3 +1,12 @@
+"""
+@author: shresth12-jain
+"""
+
+""" Link to the problem: 
+    https://www.codechef.com/problems/ADAKING
+    Link to my profile:
+    https://www.codechef.com/users/shresth_jain """
+
 #include <bits/stdc++.h>
 using namespace std;
 
