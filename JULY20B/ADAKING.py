@@ -1,6 +1,5 @@
-/* Link to the Problem : https://www.codechef.com/JULY20B/problems/ADAKING
-   My Solution : https://www.codechef.com/viewsolution/38761066
-*/ 
+# Link to the Problem : https://www.codechef.com/JULY20B/problems/ADAKING
+#  My Solution : https://www.codechef.com/viewsolution/38761066 
 
 for _ in range (int(input())):
     n=int(input())
