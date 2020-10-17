@@ -1,7 +1,5 @@
 """
 https://www.codechef.com/SEPT20B/problems/TREE2/
-
-https://www.codechef.com/users/aditi124jha
 """
 def main():
     t=int(input())
