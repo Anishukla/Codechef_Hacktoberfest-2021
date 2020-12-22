@@ -1,7 +1,7 @@
 
 /*
     Link to the problem: 
-    https://www.codechef.com/NOV20B/problems/ADADISH
+    https://www.codechef.com/NOV20B/problems/RESTORE
     Link to my profile:
     https://www.codechef.com/users/oj_17
 */
