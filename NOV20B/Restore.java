@@ -1,3 +1,10 @@
+
+/*
+    Link to the problem: 
+    https://www.codechef.com/NOV20B/problems/ADADISH
+    Link to my profile:
+    https://www.codechef.com/users/oj_17
+*/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
