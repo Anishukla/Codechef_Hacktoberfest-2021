@@ -1,0 +1,44 @@
+#include <boost/multiprecision/cpp_int.hpp>
+#include<bits/stdc++.h>
+
+using boost::multiprecision::cpp_int;
+using namespace std;
+
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define ll long long
+int main() {
+	fast;
+	int T;
+	cin>>T;
+	while(T--)
+	{
+	    ll A,B,C,D,E,ttl_alw=0,ttl_bgg=0;
+	    bool flag=false;
+	    cin>>A>>B>>C>>D>>E;
+	    ttl_alw=D+E;
+	    ttl_bgg=A+B+C;
+	    
+	    if(ttl_bgg<=ttl_alw)
+	    {
+	        if(A+B<=D && C<=E)
+	        {
+	            flag=true;
+	        }
+	        else if(A+C<=D && B<=E)
+	        {
+	            flag=true;
+	        }
+	        else if(B+C<=D && A<=E)
+	        {
+	            flag=true;
+	        }
+	    }
+	    if(flag==true)
+	        cout<<"YES";
+	    else
+	        cout<<"NO";
+	    cout<<"\n";
+	}
+
+	return 0;
+}

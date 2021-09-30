@@ -1,0 +1,32 @@
+#include <boost/multiprecision/cpp_int.hpp>
+#include<bits/stdc++.h>
+
+using boost::multiprecision::cpp_int;
+using namespace std;
+
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define ll long long
+int main() {
+	fast;
+	int T;
+	cin>>T;
+	while(T--)
+	{
+	    ll N,A,B,sum=0;
+	    cin>>N>>A>>B;
+	    string s;
+	    cin>>s;
+	    for(int i=0;i<s.length();i++)
+	    {
+	        if(s[i]=='0')
+	        {
+	            sum+=A;
+	        }
+	        else
+	            sum+=B;
+	    }
+	    cout<<sum<<"\n";
+	}
+	
+	return 0;
+}
