@@ -1,3 +1,6 @@
+//https://www.codechef.com/SEPT21C/problems/AIRLINE
+//https://www.codechef.com/viewsolution/50585339
+
 import java.lang.*;
 import java.io.*;
 import java.util.*;
