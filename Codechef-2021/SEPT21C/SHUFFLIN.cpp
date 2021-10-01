@@ -1,5 +1,5 @@
 //https://www.codechef.com/SEPT21B/problems/SHUFFLIN
-//https://www.codechef.com/submit/SHUFFLIN
+//https://www.codechef.com/viewsolution/51881502
 
 #include <bits/stdc++.h>
 
