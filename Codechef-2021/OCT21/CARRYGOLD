@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	int t;
+	std::cin >> t;
+	while(t--){
+	    int n,x,y;
+	    std::cin >> n>>x>>y;
+	    int a=n+1;
+	    if(a*y>=x){
+	        std::cout << "yes" << std::endl;
+	    }
+	    else{
+	        std::cout << "no" << std::endl;
+	    }
+	}
+	return 0;
+}
